@@ -1,3 +1,3 @@
-# tareas
+# Tarea 1
 
-Carpeta dedicada a la tarea de la asignatura
+Estrategias y Gestores de Base de Datos
