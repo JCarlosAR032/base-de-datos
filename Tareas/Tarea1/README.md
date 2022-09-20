@@ -45,7 +45,7 @@ MySQL es un sistema de almacenamiento de tipo relacional multiplataforma, donde 
 
 ## Microsoft SQL Server<a name="id2"></a>
   
-SQL Server es un sistema de gestón base de datos de tipo relacional, que soporta transacciones y procesos almacenasos. Se programa en Transact-SQL (que es una extencion de SQL creada por Microsoft), es multiplataforma y se utiliza por grandes empresas como Netflix o Facebook.
+SQL Server es un sistema de gestión base de datos de tipo relacional, que soporta transacciones y procesos almacenados. Se programa en Transact-SQL (que es una extensión de SQL creada por Microsoft), es multiplataforma y se utiliza por grandes empresas como Netflix o Facebook.
 
 ![<Imagen>](<https://th.bing.com/th/id/R.b25bae44ff516c7dcc3eacdb14d2c499?rik=WHZv1aXyAdFq4A&pid=ImgRaw&r=0>)
 
@@ -60,7 +60,7 @@ SQL Server es un sistema de gestón base de datos de tipo relacional, que soport
 
 ## Oracle Database<a name="id3"></a>
 
-Oracle Satabase es un sistema de gestion de base de datos de tipo relacional, en la que se programa en PL/SQL y la cual soporta tanto transaciones como procedimietos almacenados, es multiplataforma y se utiliza en grandes organismos como hospitales por el gran volumen de datos que se gestionan.
+Oracle Database es un sistema de gestión de base de datos de tipo relacional, en la que se programa en PL/SQL y la cual soporta tanto transacciones como procedimientos almacenados, es multiplataforma y se utiliza en grandes organismos como hospitales por el gran volumen de datos que se gestionan.
 
 ![<Imagen>](<https://th.bing.com/th/id/R.e71d1ba8858967443dd768baa259032f?rik=F8Gd7I6RD7ns9A&pid=ImgRaw&r=0>)
 
@@ -92,7 +92,7 @@ Microsoft Access es un gestor de base de datos de tipo relacional en el que se p
   
 ## PostgreSQL<a name="id5"></a>
 
-PostgreSQL es un sistema de gestion de datos de tipo relacioal orientado a objetos, soporta varios lenguajes de programacion como pueden ser, LP/PgSQL, PL/SQL, Java, PL/Java Web, C, C++, PL/Python entre otros. PostgreSQL es un sistema multiplatafroma como la mayoria de software libre y soporta transacciones pero no procedimientos almacenados. Ejemplos de algunas empresas que utilizen este gestor de datos pueden ser IMDb o Skype.
+PostgreSQL es un sistema de gestión de datos de tipo relacional orientado a objetos, soporta varios lenguajes de programación como pueden ser, LP/PgSQL, PL/SQL, Java, PL/Java Web, C, C++, PL/Python entre otros. PostgreSQL es un sistema multiplataforma como la mayoría de software libre y soporta transacciones, pero no procedimientos almacenados. Ejemplos de algunas empresas que utilicen este gestor de datos pueden ser IMDb o Skype.
 
 ![<Imagen>](https://th.bing.com/th/id/R.cdb461c7c087c71b732a5f431d343203?rik=MDqwEFHPK1piAg&pid=ImgRaw&r=0)
 
@@ -107,7 +107,7 @@ PostgreSQL es un sistema de gestion de datos de tipo relacioal orientado a objet
 
 ## H2<a name="id6"></a>
 
-H2 es un gestor de datos de tipo relacional, es un sistema multiplataforma que soporta transacciones y se programa en SQL. H2 se utiliza en entornos de desarollo.
+H2 es un gestor de datos de tipo relacional, es un sistema multiplataforma que soporta transacciones y se programa en SQL. H2 se utiliza en entornos de desarrollo.
 
 ![<Imagen>](https://th.bing.com/th/id/R.67a78a1e20ee7dd7d378dd0e6049dc8a?rik=bL%2fL84%2brRdSQmw&riu=http%3a%2f%2fwww.techinjections.com%2fwp-content%2fuploads%2f2020%2f01%2fh2.jpg&ehk=N1LyZIdmqMYnxw8dBXockTmV6b18DacM%2bKI55wErywE%3d&risl=&pid=ImgRaw&r=0)
 
@@ -121,7 +121,7 @@ H2 es un gestor de datos de tipo relacional, es un sistema multiplataforma que s
 
 ## FireBird<a name="id7"></a>
 
-FireBird es un sistema de gestion de tipo relacional, en el que se programa en SQL, soporta transacciones y procedimientos almacenados, es uns sistema multiplataforma y uno de los sisteman donde se utiliza es Mozilla FireBird.
+FireBird es un sistema de gestión de tipo relacional, en el que se programa en SQL, soporta transacciones y procedimientos almacenados, es un sistema multiplataforma y uno de los sistemas que utiliza Mozilla FireBird.
 
 ![<Imagen>](https://th.bing.com/th/id/R.15b2f7a3c03e95902cfb1a13021db17f?rik=BdFJ%2bsJ3ZLr2Lg&pid=ImgRaw&r=0)
 
@@ -148,7 +148,7 @@ MongoDB es un gestor de base de datos de tipo NoSQL en el que se programa en Jav
 
 ## SQLite<a name="id9"></a>
 
-SQLite es un sistema multiplataforma de gestion de base de datos de tipo relacional en el que se programa en C, no soporta procedimientos almacenados pero si transacciones. El navegador web Opera utiliza SQLite pata la gestion de datos en WebSQL, Skype tambien utiliza SQLite.
+SQLite es un sistema multiplataforma de gestión de base de datos de tipo relacional en el que se programa en C, no soporta procedimientos almacenados, pero si transacciones. El navegador web Opera utiliza SQLite pata la gestión de datos en WebSQL, Skype también utiliza SQLite.
 
 ![<Image>](https://th.bing.com/th/id/R.7cf9dadeefdb9a07a51b2864b5520411?rik=8p6jFawfBlS0Nw&riu=http%3a%2f%2fmedia.charlesleifer.com%2fblog%2fphotos%2fsqlite-logo.png&ehk=8HiWDqKLdLV0J%2fBaTuJL42J7kyY%2bK3mx9wiiOQ9LkMo%3d&risl=&pid=ImgRaw&r=0)
 
@@ -161,7 +161,7 @@ SQLite es un sistema multiplataforma de gestion de base de datos de tipo relacio
 
 ## Redis<a name="id10"></a>
 
-Redis es un sistema de base da datos de tipo NoSQL, soportar varios lenguajes de programacion como C++, C#, Java, PHP o Python entre otros. Redis es un sistema multiplataforma que soporta transacciones y se utiliza para implementar cahe de memoria. Algunas aplicaciones que utilizan Redis son Twitter, GitHub o Pinterest.
+Redis es un sistema de bases de datos de tipo NoSQL, soportar varios lenguajes de programación como C++, C#, Java, PHP o Python entre otros. Redis es un sistema multiplataforma que soporta transacciones y se utiliza para implementar cache de memoria. Algunas aplicaciones que utilizan Redis son Twitter, GitHub o Pinterest.
 
 ![<Image>](https://th.bing.com/th/id/R.d1a0f873db20be735a03971393e50c48?rik=vH9famN%2bgZ2QSQ&riu=http%3a%2f%2fwww.devapp.it%2fwordpress%2fwp-content%2fuploads%2f2016%2f11%2fredis-logo-642x336.png&ehk=gtrNFLIzd6bnyOgRtWqj0E2Ekmd7BBu7G27FEMUGCOo%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1)
 
