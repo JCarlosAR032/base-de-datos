@@ -76,7 +76,7 @@ Oracle Database es un sistema de gestión de base de datos de tipo relacional, e
 
 ## Microsoft Access<a name="id4"></a>
 
-Microsoft Access es un gestor de base de datos de tipo relacional en el que se programa en Visual Basic Application (VBA), el gestor soporta procedimientos almacenados y transacciones, es un sistema multiplataforma y por lo general quien lo utilizan son pequeñas empresas de entre 50 y 200 empleados aprox.  
+Microsoft Access es un gestor de base de datos de tipo relacional en el que se programa en Visual Basic Application (VBA), el gestor soporta procedimientos almacenados y transacciones, no es un sistema multiplataforma porque esta pensado para sistemas windows y por lo general quien lo utilizan son pequeñas empresas de entre 50 y 200 empleados aprox.  
 
 ![<Imagen>](https://i0.wp.com/www.aipbarcelona.com/wp-content/uploads/2018/03/Acces-e1510847064156.png)
 
