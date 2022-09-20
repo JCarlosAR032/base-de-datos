@@ -1,6 +1,6 @@
 <div align="justify"> 
 
-# Estrategias y Gestores de Base de Datos
+# Almacenamiento de la información Tarea 1
 
 ![<Imagen>](<https://th.bing.com/th/id/R.238f239050b82444e9002ab168efa4cc?rik=p1SYXV0v6BYUFA&pid=ImgRaw&r=0>)
 
@@ -173,4 +173,5 @@ Redis es un sistema de bases de datos de tipo NoSQL, soportar varios lenguajes d
 - [<aws.amazon.com>](https://aws.amazon.com/es/redis/#:~:text=Redis%20es%20una%20excelente%20opci%C3%B3n,de%20datos%20relacional%20o%20NoSQL)
 
 ***
+Por José Carlos Alonso Ramos
 </div>
