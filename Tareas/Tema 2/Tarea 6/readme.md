@@ -13,16 +13,16 @@ frenos u otros. Los coches pueden pasar varias revisiones en el concesionario”
 
 # Paso 1
 
-![<image>]()
+![<image>](https://raw.githubusercontent.com/JCarlosAR032/base-de-datos/main/Tareas/Tema%202/Tarea%206/img/Ejercicio6-Paso%201.drawio.png)
 
 # Paso 2
 
-![<image>]()
+![<image>](https://raw.githubusercontent.com/JCarlosAR032/base-de-datos/main/Tareas/Tema%202/Tarea%206/img/Ejercicio6-Paso%202.drawio.png)
 
 # Paso 3
 
-![<image>]()
+![<image>](https://raw.githubusercontent.com/JCarlosAR032/base-de-datos/main/Tareas/Tema%202/Tarea%206/img/Ejercicio6-Paso%203.drawio.png)
 
 # Paso 4
 
-![<image>]()
+![<image>](https://raw.githubusercontent.com/JCarlosAR032/base-de-datos/main/Tareas/Tema%202/Tarea%206/img/Ejercicio6-Paso%204.drawio.png)
