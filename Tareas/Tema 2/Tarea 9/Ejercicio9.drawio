@@ -1,1 +1,583 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T15:19:59.908Z" agent="5.0 (X11)" etag="8IEOLmSlOzFp9Dcp0z6l" version="20.4.0" type="device" pages="2"><diagram id="y5XUfal_WWfr_NfrERLB" name="Paso 1">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</diagram><diagram name="Paso 2" id="uXtxZWYEkeV6gsEUnCSw">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-14T15:18:25.957Z" agent="5.0 (X11)" etag="MmxLXH4aTw8A5AteSQ5J" version="20.4.0" type="github" pages="3">
+  <diagram id="y5XUfal_WWfr_NfrERLB" name="Paso 1">
+    <mxGraphModel dx="1422" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-1" value="&lt;div align=&quot;left&quot;&gt;El club de Ajedrez IES Puerto, ha sido encargado por la Federación Internacional de Ajedrez de la organización de los próximos campeonatos mundiales &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;que se celebrarán en la mencionada localidad. Por este motivo, desea llevar a una base de datos toda la gestión relativa a participantes, alojamientos y &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;partidas. Teniendo en cuenta qué:&amp;nbsp;&amp;nbsp;&amp;nbsp; En el campeonato participan únicamente jugadores y árbitros; de ambos se requiere conocer el número de asociado, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;nombre, dirección, teléfono de contacto y campeonatos en los que han participado. De los jugadores se precisa además el nivel de juego en una escala &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;de 1 a 10.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Ningún árbitro puede participar como jugador.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Los países envían al campeonato un conjunto de jugadores y árbitros, aunque no todos los países envían participantes. Todo jugador y árbitro es &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; enviado por un único país. Un país puede ser representado por otro país.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada país se identifica por un número e interesa además conocer su nombre y el número de clubes de ajedrez existentes en el mismo.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada partida se identifica por un código ( Cod_P ), jugada por dos jugadores y arbitrada por un árbitro. Interesa registrar las partidas que juega cada &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; jugador y el color ( blancas o negras ) con el que juega. Ha de tenerse en cuenta que un árbitro no puede arbitrar a jugadores enviados por el mismo &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; país que le ha enviado a él.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Todo participante participa en al menos una partida.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Tanto jugadores como árbitros se alojan en uno de los hoteles en los que se desarrollan las partidas, se desea conocer en qué hotel y en qué fechas &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; se ha alojado cada uno de los participantes. Los participantes pueden no permanecer en el Puerto durante todo el campeonato, sino acudir cuando &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tienen que jugar alguna partida alojándose en el mismo o distinto hotel. De cada hotel, se desea conocer el nombre, la dirección y el número de teléfono.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - El campeonato se desarrolla a lo largo de una serie de jornadas (año, mes, día) y cada partida tiene lugar en una de las jornadas aunque no tengan &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; lugar partidas todas las jornadas.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada partida se celebra en una de las salas de las que pueden disponer los hoteles, se desea conocer el número de entradas vendidas en la sala &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; para cada partida. De cada sala, se desea conocer la capacidad y medios de que dispone (radio, televisión, vídeo...) para facilitar la retransmisión &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de los encuentros. Una sala puede disponer de varios medios distintos.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - De cada partida se pretende registrar todos los movimientos que la componen, la identificación de movimiento se establece en base a un número de &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; orden dentro de cada partida: para cada movimiento se guardan la jugaday un breve comentario realizado por un experto.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry width="850" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-2" value="jugador" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-3" value="árbitro" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-4" value="participante" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="320" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-6" value="pais" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-7" value="partida" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-8" value="hotel" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-16" value="participante" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-17" value="envía" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="240" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-18" value="pais" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-19" value="partida" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-20" value="hotel" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1000" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-21" value="jugador" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1000" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-22" value="árbitro" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-23" value="hotel" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-24" value="se aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="240" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-25" value="se aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-26" value="hotel" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-27" value="se desarrolla" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-28" value="partida" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-29" value="sala" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="760" as="sourcePoint" />
+            <mxPoint x="560" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-31" value="Entidades/Relación:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="65" y="780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-33" value="Entidades:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="65" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-34" value="participante" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mf_rUM0DfAvlbjwJOTAf-35" value="participa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="240" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBIP0MnH46pjAkWKAPa2-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="480" width="50" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Paso 2" id="uXtxZWYEkeV6gsEUnCSw">
+    <mxGraphModel dx="2031" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fRPFVRGse069R39KVq__-0" />
+        <mxCell id="fRPFVRGse069R39KVq__-1" parent="fRPFVRGse069R39KVq__-0" />
+        <mxCell id="fRPFVRGse069R39KVq__-2" value="&lt;div align=&quot;left&quot;&gt;El club de Ajedrez IES Puerto, ha sido encargado por la Federación Internacional de Ajedrez de la organización de los próximos campeonatos mundiales &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;que se celebrarán en la mencionada localidad. Por este motivo, desea llevar a una base de datos toda la gestión relativa a participantes, alojamientos y &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;partidas. Teniendo en cuenta qué:&amp;nbsp;&amp;nbsp;&amp;nbsp; En el campeonato participan únicamente jugadores y árbitros; de ambos se requiere conocer el número de asociado, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;nombre, dirección, teléfono de contacto y campeonatos en los que han participado. De los jugadores se precisa además el nivel de juego en una escala &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;de 1 a 10.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Ningún árbitro puede participar como jugador.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Los países envían al campeonato un conjunto de jugadores y árbitros, aunque no todos los países envían participantes. Todo jugador y árbitro es &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; enviado por un único país. Un país puede ser representado por otro país.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada país se identifica por un número e interesa además conocer su nombre y el número de clubes de ajedrez existentes en el mismo.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada partida se identifica por un código ( Cod_P ), jugada por dos jugadores y arbitrada por un árbitro. Interesa registrar las partidas que juega cada &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; jugador y el color ( blancas o negras ) con el que juega. Ha de tenerse en cuenta que un árbitro no puede arbitrar a jugadores enviados por el mismo &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; país que le ha enviado a él.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Todo participante participa en al menos una partida.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Tanto jugadores como árbitros se alojan en uno de los hoteles en los que se desarrollan las partidas, se desea conocer en qué hotel y en qué fechas &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; se ha alojado cada uno de los participantes. Los participantes pueden no permanecer en el Puerto durante todo el campeonato, sino acudir cuando &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tienen que jugar alguna partida alojándose en el mismo o distinto hotel. De cada hotel, se desea conocer el nombre, la dirección y el número de teléfono.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - El campeonato se desarrolla a lo largo de una serie de jornadas (año, mes, día) y cada partida tiene lugar en una de las jornadas aunque no tengan &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; lugar partidas todas las jornadas.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada partida se celebra en una de las salas de las que pueden disponer los hoteles, se desea conocer el número de entradas vendidas en la sala &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; para cada partida. De cada sala, se desea conocer la capacidad y medios de que dispone (radio, televisión, vídeo...) para facilitar la retransmisión &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de los encuentros. Una sala puede disponer de varios medios distintos.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - De cada partida se pretende registrar todos los movimientos que la componen, la identificación de movimiento se establece en base a un número de &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; orden dentro de cada partida: para cada movimiento se guardan la jugaday un breve comentario realizado por un experto.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry width="850" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-3" value="jugador" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="320" y="980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-4" value="árbitro" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="520" y="980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-5" value="participante" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="420" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-10" value="envían" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="220" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-11" value="pais" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="40" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-12" value="partida" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="820" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-14" value="jugador" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="1200" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-15" value="árbitro" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="1200" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-17" value="se aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="1190" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-18" value="se aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="1190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-19" value="hotel" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="1200" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-20" value="se desarrolla" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="1000" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fRPFVRGse069R39KVq__-27" value="participa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="620" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLKxohLC1x3TvC_SKcAU-2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fRPFVRGse069R39KVq__-1" vertex="1">
+          <mxGeometry x="440" y="850" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rLKxohLC1x3TvC_SKcAU-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="rLKxohLC1x3TvC_SKcAU-2" target="fRPFVRGse069R39KVq__-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="850" as="sourcePoint" />
+            <mxPoint x="670" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLKxohLC1x3TvC_SKcAU-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-3" target="rLKxohLC1x3TvC_SKcAU-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="950" as="sourcePoint" />
+            <mxPoint x="520" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLKxohLC1x3TvC_SKcAU-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-4" target="rLKxohLC1x3TvC_SKcAU-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="940" as="sourcePoint" />
+            <mxPoint x="680" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLKxohLC1x3TvC_SKcAU-12" value="" style="endArrow=none;html=1;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;" parent="fRPFVRGse069R39KVq__-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="910" as="sourcePoint" />
+            <mxPoint x="530" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="930" />
+              <mxPoint x="530" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx2r0CfF2ODLrSSmuJQ1-0" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-11" target="fRPFVRGse069R39KVq__-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="870" as="sourcePoint" />
+            <mxPoint x="320" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx2r0CfF2ODLrSSmuJQ1-1" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-10" target="fRPFVRGse069R39KVq__-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="820" as="sourcePoint" />
+            <mxPoint x="510" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx2r0CfF2ODLrSSmuJQ1-2" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-5" target="fRPFVRGse069R39KVq__-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="860" as="sourcePoint" />
+            <mxPoint x="850" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx2r0CfF2ODLrSSmuJQ1-3" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-27" target="fRPFVRGse069R39KVq__-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="830" as="sourcePoint" />
+            <mxPoint x="970" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx2r0CfF2ODLrSSmuJQ1-4" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-12" target="fRPFVRGse069R39KVq__-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="840" as="sourcePoint" />
+            <mxPoint x="1150" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qx2r0CfF2ODLrSSmuJQ1-5" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-20" target="fRPFVRGse069R39KVq__-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="840" as="sourcePoint" />
+            <mxPoint x="1350" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__uiDMe3oplikTKaDM3H-0" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-18" target="fRPFVRGse069R39KVq__-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="600" as="sourcePoint" />
+            <mxPoint x="1450" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__uiDMe3oplikTKaDM3H-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-18" target="fRPFVRGse069R39KVq__-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="730" as="sourcePoint" />
+            <mxPoint x="1480" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__uiDMe3oplikTKaDM3H-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-17" target="fRPFVRGse069R39KVq__-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="850" as="sourcePoint" />
+            <mxPoint x="1510" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__uiDMe3oplikTKaDM3H-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="fRPFVRGse069R39KVq__-1" source="fRPFVRGse069R39KVq__-15" target="fRPFVRGse069R39KVq__-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="990" as="sourcePoint" />
+            <mxPoint x="1450" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Paso 3" id="u_-sm_e1butk06t0HHYj">
+    <mxGraphModel dx="2249" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-0" />
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-1" parent="qbrbTVUkuEOUcaq7BWh8-0" />
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-2" value="&lt;div align=&quot;left&quot;&gt;El club de Ajedrez IES Puerto, ha sido encargado por la Federación Internacional de Ajedrez de la organización de los próximos campeonatos mundiales &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;que se celebrarán en la mencionada localidad. Por este motivo, desea llevar a una base de datos toda la gestión relativa a participantes, alojamientos y &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;partidas. Teniendo en cuenta qué:&amp;nbsp;&amp;nbsp;&amp;nbsp; En el campeonato participan únicamente jugadores y árbitros; de ambos se requiere conocer el número de asociado, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;nombre, dirección, teléfono de contacto y campeonatos en los que han participado. De los jugadores se precisa además el nivel de juego en una escala &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;de 1 a 10.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Ningún árbitro puede participar como jugador.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Los países envían al campeonato un conjunto de jugadores y árbitros, aunque no todos los países envían participantes. Todo jugador y árbitro es &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; enviado por un único país. Un país puede ser representado por otro país.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; -&lt;b&gt; &lt;/b&gt;Cada país se identifica por un número e interesa además conocer su nombre y el número de clubes de ajedrez existentes en el mismo.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada partida se identifica por un código ( Cod_P ), jugada por dos jugadores y arbitrada por un árbitro. Interesa registrar las partidas que juega cada &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; jugador y el color ( blancas o negras ) con el que juega. Ha de tenerse en cuenta que un árbitro no puede arbitrar a jugadores enviados por el mismo &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; país que le ha enviado a él.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Todo participante participa en al menos una partida.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Tanto jugadores como árbitros se alojan en uno de los hoteles en los que se desarrollan las partidas, se desea conocer en qué hotel y en qué fechas &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; se ha alojado cada uno de los participantes. Los participantes pueden no permanecer en el Puerto durante todo el campeonato, sino acudir cuando &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tienen que jugar alguna partida alojándose en el mismo o distinto hotel. De cada hotel, se desea conocer el nombre, la dirección y el número de teléfono&lt;b&gt;.&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; -&lt;b&gt; El campeonato se desarrolla a lo largo de una serie de jornadas (año, mes, día) y cada partida tiene lugar en una de las jornadas aunque no tengan &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; lugar partidas todas las jornadas.&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Cada partida se celebra en una de las salas de las que pueden disponer los hoteles, se desea conocer el número de entradas vendidas en la sala &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; para cada partida. De cada sala, se desea conocer la capacidad y medios de que dispone (radio, televisión, vídeo...) para facilitar la retransmisión &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de los encuentros. Una sala puede disponer de varios medios distintos.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - De cada partida se pretende registrar todos los movimientos que la componen, la identificación de movimiento se establece en base a un número de &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; orden dentro de cada partida: para cada movimiento se guardan la jugaday un breve comentario realizado por un experto.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry width="880" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-3" value="jugador" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="320" y="980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-4" value="árbitro" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="520" y="980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-5" value="participante" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="420" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-6" value="envían" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="220" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-7" value="pais" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="40" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-8" value="partida" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="820" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-9" value="jugador" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1200" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-10" value="árbitro" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1200" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-11" value="se aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1190" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-12" value="se aloja" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-14" value="se desarrolla" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1000" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-15" value="participa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="620" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="440" y="850" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-16" target="qbrbTVUkuEOUcaq7BWh8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="850" as="sourcePoint" />
+            <mxPoint x="670" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-3" target="qbrbTVUkuEOUcaq7BWh8-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="950" as="sourcePoint" />
+            <mxPoint x="520" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-4" target="qbrbTVUkuEOUcaq7BWh8-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="940" as="sourcePoint" />
+            <mxPoint x="680" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-20" value="" style="endArrow=none;html=1;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="910" as="sourcePoint" />
+            <mxPoint x="530" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="930" />
+              <mxPoint x="530" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-21" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-7" target="qbrbTVUkuEOUcaq7BWh8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="870" as="sourcePoint" />
+            <mxPoint x="320" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-22" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-6" target="qbrbTVUkuEOUcaq7BWh8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="820" as="sourcePoint" />
+            <mxPoint x="510" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-23" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-5" target="qbrbTVUkuEOUcaq7BWh8-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="860" as="sourcePoint" />
+            <mxPoint x="850" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-24" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-15" target="qbrbTVUkuEOUcaq7BWh8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="830" as="sourcePoint" />
+            <mxPoint x="970" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-25" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-8" target="qbrbTVUkuEOUcaq7BWh8-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="840" as="sourcePoint" />
+            <mxPoint x="1150" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-26" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-14" target="e5_4rzoPvbdztJehIQ3a-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="840" as="sourcePoint" />
+            <mxPoint x="1200" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-12" target="qbrbTVUkuEOUcaq7BWh8-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="600" as="sourcePoint" />
+            <mxPoint x="1450" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-12" target="e5_4rzoPvbdztJehIQ3a-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="730" as="sourcePoint" />
+            <mxPoint x="1480" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-11" target="e5_4rzoPvbdztJehIQ3a-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="850" as="sourcePoint" />
+            <mxPoint x="1510" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbrbTVUkuEOUcaq7BWh8-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-10" target="qbrbTVUkuEOUcaq7BWh8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="990" as="sourcePoint" />
+            <mxPoint x="1450" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-0" value="nº asociado" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1060" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-1" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1100" y="1120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-2" value="dirección" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1200" y="1169" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-3" value="teléfono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1300" y="1120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-4" value="historial campeonatos" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1340" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-5" value="nº asociado" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1060" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-6" value="nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1060" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-7" value="dirección" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1100" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-8" value="teléfono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1300" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-9" value="historial campeonatos" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1340" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-10" value="nivel de juego" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1340" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-5" target="qbrbTVUkuEOUcaq7BWh8-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="480" as="sourcePoint" />
+            <mxPoint x="1380" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-9" target="e5_4rzoPvbdztJehIQ3a-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="590" as="sourcePoint" />
+            <mxPoint x="1490" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-6" target="qbrbTVUkuEOUcaq7BWh8-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="360" as="sourcePoint" />
+            <mxPoint x="1410" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-7" target="qbrbTVUkuEOUcaq7BWh8-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="370" as="sourcePoint" />
+            <mxPoint x="1430" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-8" target="qbrbTVUkuEOUcaq7BWh8-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="390" as="sourcePoint" />
+            <mxPoint x="1540" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-9" target="qbrbTVUkuEOUcaq7BWh8-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="500" as="sourcePoint" />
+            <mxPoint x="1470" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-0" target="qbrbTVUkuEOUcaq7BWh8-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="1090" as="sourcePoint" />
+            <mxPoint x="1330" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-10" target="e5_4rzoPvbdztJehIQ3a-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="1020" as="sourcePoint" />
+            <mxPoint x="1470" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-10" target="e5_4rzoPvbdztJehIQ3a-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="1100" as="sourcePoint" />
+            <mxPoint x="1550" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-1" target="qbrbTVUkuEOUcaq7BWh8-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="1110" as="sourcePoint" />
+            <mxPoint x="1370" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-10" target="e5_4rzoPvbdztJehIQ3a-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="1150" as="sourcePoint" />
+            <mxPoint x="1430" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-24" value="número pais" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="40" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-25" value="nombre país" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="-100" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-26" value="número de clubes" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="40" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-26" target="qbrbTVUkuEOUcaq7BWh8-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="900" as="sourcePoint" />
+            <mxPoint x="120" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-24" target="qbrbTVUkuEOUcaq7BWh8-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="770" as="sourcePoint" />
+            <mxPoint x="260" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-25" target="qbrbTVUkuEOUcaq7BWh8-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="710" as="sourcePoint" />
+            <mxPoint x="90" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-32" value="Cod_P" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="720" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-33" value="que partida juega" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="920" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-34" value="color fichas con las que juega" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="720" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-35" value="comprobar que el albitro no es del mismo país que los jugadores de la partida que arbitra" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="920" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-37" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-8" target="e5_4rzoPvbdztJehIQ3a-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="750" as="sourcePoint" />
+            <mxPoint x="820" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-8" target="e5_4rzoPvbdztJehIQ3a-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="760" as="sourcePoint" />
+            <mxPoint x="1110" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-39" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-8" target="e5_4rzoPvbdztJehIQ3a-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="950" as="sourcePoint" />
+            <mxPoint x="900" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-8" target="e5_4rzoPvbdztJehIQ3a-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="960" as="sourcePoint" />
+            <mxPoint x="850" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-41" value="hotel" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1200" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-42" value="fecha alojamiento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1360" y="910" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-43" value="nombre hotel" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1360" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-44" value="dirección" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1360" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-45" value="teléfono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1360" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-41" target="e5_4rzoPvbdztJehIQ3a-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="690" as="sourcePoint" />
+            <mxPoint x="1510" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-41" target="e5_4rzoPvbdztJehIQ3a-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="850" as="sourcePoint" />
+            <mxPoint x="1330" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="e5_4rzoPvbdztJehIQ3a-41" target="e5_4rzoPvbdztJehIQ3a-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="840" as="sourcePoint" />
+            <mxPoint x="1280" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-49" value="fecha alojamiento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="qbrbTVUkuEOUcaq7BWh8-1">
+          <mxGeometry x="1360" y="650" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-12" target="e5_4rzoPvbdztJehIQ3a-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="700" as="sourcePoint" />
+            <mxPoint x="1500" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5_4rzoPvbdztJehIQ3a-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbrbTVUkuEOUcaq7BWh8-1" source="qbrbTVUkuEOUcaq7BWh8-11" target="e5_4rzoPvbdztJehIQ3a-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="960" as="sourcePoint" />
+            <mxPoint x="1550" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
