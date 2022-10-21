@@ -18,16 +18,16 @@ Un club de fans de la famosa película Star Trek, ha decidido crear una página 
 
 ### Paso 1:
 
-![<image>]()
+![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%201.drawio.png)
 
 ### Paso 2:
 
-![<image>]()
+![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%202.drawio.png)
 
 ### Paso 3:
 
-![<image>]()
+![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%203.drawio.png)
 
 ### Paso 4:
 
-![<image>]()
+![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%204.drawio.png)
