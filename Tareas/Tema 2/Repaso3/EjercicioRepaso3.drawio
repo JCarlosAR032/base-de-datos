@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T14:56:55.854Z" agent="5.0 (X11)" version="20.4.2" etag="uOqKv5wz8I3Trr4HQpwB" type="github"><diagram id="Bn1N02uW-f6DdIXEmtT6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-21T15:17:08.576Z" agent="5.0 (X11)" etag="XwIfmZDSHEAHoDM6Eq9E" version="20.4.2" type="github">
+  <diagram id="Bn1N02uW-f6DdIXEmtT6" name="Paso 1">
+    <mxGraphModel dx="1422" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AZIlok_D8tovS8korZaz-1" value="&lt;p dir=&quot;auto&quot;&gt;Se desea diseñar una base de datos para una &lt;strong&gt;AGENCIA MATRIMONIAL&lt;/strong&gt; que contenga información de &lt;strong&gt;HOMBRES&lt;/strong&gt; (Con todos sus datos personales), &lt;strong&gt;MUJERES&lt;/strong&gt; (Con todos sus datos&lt;br&gt;personales), &lt;strong&gt;EMPLEADOS&lt;/strong&gt; (Divididos en tres categorías &lt;strong&gt;SOCIOS, DIRECTORES y ADMINISTRATIVOS&lt;/strong&gt;),&lt;br&gt; CITAS REALIZADAS (Debe quedar constancia de la fecha, el hombre, la &lt;br&gt;mujer y el director que la promovió) y MATRIMONIOS (Fecha, Hombre, &lt;br&gt;Mujer). Teniendo en cuenta las siguientes restricciones:&lt;/p&gt;&lt;br&gt;&lt;ul dir=&quot;auto&quot;&gt;&lt;li&gt;Un HOMBRE puede tener citas con varias MUJERES.&lt;/li&gt;&lt;li&gt;Una MUJER puede tener citas con varios HOMBRES.&lt;/li&gt;&lt;li&gt;Un HOMBRE puede casarse con varias MUJERES. (Puede enviudar).&lt;/li&gt;&lt;li&gt;Una MUJER puede casarse con varios HOMBRES. (Puede enviudar)&lt;/li&gt;&lt;li&gt;Sólo los DIRECTORES pueden promover citas.&lt;/li&gt;&lt;li&gt;Un SOCIO tiene a su cargo varios DIRECTORES y éstos a su vez varios&lt;br&gt;ADMINISTRATIVOS.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry width="1000" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-2" value="hombre" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-3" value="mujer" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-4" value="empleado" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-5" value="socio" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-6" value="director" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-7" value="administrativo" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-8" value="citas realizadas" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZIlok_D8tovS8korZaz-9" value="matrimonios" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="760" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
