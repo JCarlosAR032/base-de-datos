@@ -18,16 +18,16 @@ Un club de fans de la famosa película Star Trek, ha decidido crear una página 
 
 ### Paso 1:
 
-![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%201.drawio.png)
+![<image>](https://github.com/JCarlosAR032/base-de-datos/blob/main/Tareas/Tema%202/Tarea%2010/img/Ejercicio10-Paso%201.drawio.png)
 
 ### Paso 2:
 
-![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%202.drawio.png)
+![<image>](https://github.com/JCarlosAR032/base-de-datos/blob/main/Tareas/Tema%202/Tarea%2010/img/Ejercicio10-Paso%202.drawio.png)
 
 ### Paso 3:
 
-![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%203.drawio.png)
+![<image>](https://github.com/JCarlosAR032/base-de-datos/blob/main/Tareas/Tema%202/Tarea%2010/img/Ejercicio10-Paso%203.drawio.png)
 
 ### Paso 4:
 
-![<image>](file:///home/daw/Escritorio/Ejercicio10-Paso%204.drawio.png)
+![<image>](https://github.com/JCarlosAR032/base-de-datos/blob/main/Tareas/Tema%202/Tarea%2010/img/Ejercicio10-Paso%204.drawio.png)
