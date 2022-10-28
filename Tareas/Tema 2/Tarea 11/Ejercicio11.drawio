@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:10:01.111Z" agent="5.0 (X11)" etag="fclIAHdP0QQJWOKUg7Gc" version="20.5.0" type="github"><diagram id="P512nzUbRc--8tjtmcsa" name="Página-1">dZFND4IwDIZ/ze6wGdEzfl08cfC80MqWDErGDOivF7IhLmjSQ/v07d6tYyKvh7OVrboSoGE8gYGJA+M83XDOpkjg6UmWpR5UVkMQLaDQLwwwCfShAbtI6IiM020MS2oaLF3EpLXUx7I7mdi1lRWuQFFKs6Y3DU55uuPZwi+oKzU7p9u979RyFoeXdEoC9V9IHJnILZHzWT3kaKblzXvxc6c/3c/FLDbux8CYLGePRfRD4vgG</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-28T15:20:51.779Z" agent="5.0 (X11)" etag="-XiQ5VjgHpYq9_sz0qi8" version="20.5.1" type="github">
+  <diagram id="P512nzUbRc--8tjtmcsa" name="Paso 1">
+    <mxGraphModel dx="1422" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rmGzSAAP67Yl_Ot17Y5s-1" value="&lt;p dir=&quot;auto&quot;&gt;Una empresa discográfica emergente de Canarias quiere &lt;br&gt;almacenar y organizar eficientemente la información sobre grupos &lt;br&gt;musicales, canciones y músicos. Para ello se hace necesario crear una &lt;br&gt;base de datos que incluya los siguientes requerimientos y &lt;br&gt;consideraciones:&lt;/p&gt;&lt;ul dir=&quot;auto&quot;&gt;&lt;li&gt;Un Músico se identifica por un código de músico, su nombre, su fecha&lt;br&gt; de nacimiento, su año de fallecimiento, su género y su nacionalidad.&lt;/li&gt;&lt;li&gt;Una Banda tiene un identificador de banda, el nombre del grupo, el &lt;br&gt;año de formación, el año de disolución, el estilo musical y el país de &lt;br&gt;origen. El estilo musical sólo puede tomar los valores:Blues, Country, &lt;br&gt;Heavy, Jazz, Pop,Punk, Reggae ,Rock, Soul, Thrash, Techno.&lt;/li&gt;&lt;li&gt;Un Álbum se caracteriza por incluir un identificador de álbum, su &lt;br&gt;título, el año de publicación, su duración y el identificador del grupo &lt;br&gt;que lo ha grabado.&lt;/li&gt;&lt;li&gt;Una Canción almacena su identificador de canción, su título, su duración y el identificador del álbum al que pertenece.&lt;/li&gt;&lt;li&gt;Es necesario también mantener información sobre los músicos que &lt;br&gt;forman parte, es decir, son miembros de un grupo o grupos musicales, así&lt;br&gt; como del instrumento que toca el músico en el grupo, existiendo la &lt;br&gt;posibilidad de que un músico toque más de un instrumento en un grupo.&lt;/li&gt;&lt;li&gt;Así mismo, también se debe disponer de información sobre las &lt;br&gt;canciones y el músico o músicos que las han compuesto. En este sentido, &lt;br&gt;como es lógico y habitual, un músico puede componer varias canciones y, &lt;br&gt;también, una canción puede estar compuesta por más de un músico.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry width="690" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="rmGzSAAP67Yl_Ot17Y5s-4" value="músico" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rmGzSAAP67Yl_Ot17Y5s-5" value="banda" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rmGzSAAP67Yl_Ot17Y5s-7" value="álbum" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51gg9b6dhKQ492BChfCT-1" value="canción" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
