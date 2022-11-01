@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T08:58:01.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="eXg5oPgu702otX2htz8P" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-01T09:12:58.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="-AeW7kdM95XQg_uiw-pb" version="20.5.1" type="github" pages="4">
   <diagram id="P512nzUbRc--8tjtmcsa" name="Paso 1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -412,9 +412,6 @@
       <root>
         <mxCell id="9UqIp05wCBPbJk65HOqj-0" />
         <mxCell id="9UqIp05wCBPbJk65HOqj-1" parent="9UqIp05wCBPbJk65HOqj-0" />
-        <mxCell id="9UqIp05wCBPbJk65HOqj-2" value="&lt;p dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;ul dir=&quot;auto&quot;&gt;&lt;li&gt;Es necesario también mantener información sobre los músicos que &lt;br&gt;forman parte, es decir, son miembros de un grupo o grupos musicales, así&lt;br&gt; como del instrumento que toca el músico en el grupo, existiendo la &lt;br&gt;posibilidad de que un músico toque más de un instrumento en un grupo.&lt;/li&gt;&lt;li&gt;Así mismo, también se debe disponer de información sobre las &lt;br&gt;canciones y el músico o músicos que las han compuesto. En este sentido, &lt;br&gt;como es lógico y habitual, un músico puede componer varias canciones y, &lt;br&gt;también, una canción puede estar compuesta por más de un músico.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9UqIp05wCBPbJk65HOqj-1">
-          <mxGeometry y="240" width="460" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="9UqIp05wCBPbJk65HOqj-3" value="álbum" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9UqIp05wCBPbJk65HOqj-1">
           <mxGeometry x="840" y="560" width="100" height="40" as="geometry" />
         </mxCell>
@@ -439,10 +436,20 @@
             <mxPoint x="350" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XDz-jNKBUWxSNRDoEwsd-1" value="(1:N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9UqIp05wCBPbJk65HOqj-9">
+          <mxGeometry x="0.375" relative="1" as="geometry">
+            <mxPoint x="-5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9UqIp05wCBPbJk65HOqj-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="9UqIp05wCBPbJk65HOqj-1" source="9UqIp05wCBPbJk65HOqj-8" target="9UqIp05wCBPbJk65HOqj-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="630" as="sourcePoint" />
             <mxPoint x="420" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XDz-jNKBUWxSNRDoEwsd-0" value="(1:N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9UqIp05wCBPbJk65HOqj-10">
+          <mxGeometry x="-0.2222" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9UqIp05wCBPbJk65HOqj-11" value="pertenece" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="9UqIp05wCBPbJk65HOqj-1">
@@ -452,6 +459,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="550" as="sourcePoint" />
             <mxPoint x="930" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XDz-jNKBUWxSNRDoEwsd-3" value="(0:1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9UqIp05wCBPbJk65HOqj-12">
+          <mxGeometry x="0.35" relative="1" as="geometry">
+            <mxPoint x="-14" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9UqIp05wCBPbJk65HOqj-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9UqIp05wCBPbJk65HOqj-1" source="9UqIp05wCBPbJk65HOqj-5" target="9UqIp05wCBPbJk65HOqj-7">
@@ -480,6 +492,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="510" as="sourcePoint" />
             <mxPoint x="710" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XDz-jNKBUWxSNRDoEwsd-4" value="(1:N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9UqIp05wCBPbJk65HOqj-15">
+          <mxGeometry x="0.2889" y="-3" relative="1" as="geometry">
+            <mxPoint x="-8" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9UqIp05wCBPbJk65HOqj-16" value="código de musico" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9UqIp05wCBPbJk65HOqj-1">
@@ -691,6 +708,12 @@
             <mxPoint x="-270" y="540" as="sourcePoint" />
             <mxPoint x="-110" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XDz-jNKBUWxSNRDoEwsd-2" value="(N:M)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9UqIp05wCBPbJk65HOqj-1">
+          <mxGeometry x="275" y="525" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDz-jNKBUWxSNRDoEwsd-5" value="(1:N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9UqIp05wCBPbJk65HOqj-1">
+          <mxGeometry x="675" y="520" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
