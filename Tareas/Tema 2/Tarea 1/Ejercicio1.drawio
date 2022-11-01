@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T12:10:04.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="5wEVyDZ_rB6vECxb6iJP" version="20.5.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-01T12:11:36.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="KMqQQpJ4XhDH431MXxLG" version="20.5.1" type="github" pages="8">
   <diagram id="C_pafondrnuH2jQkp4BJ" name="EJE-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EJE-7" id="eCQk8WWaCOQ9R6_1u9TO">
-    <mxGraphModel dx="2249" dy="771" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dQ05x5KbaUEkVMnu56LT-0" />
         <mxCell id="dQ05x5KbaUEkVMnu56LT-1" parent="dQ05x5KbaUEkVMnu56LT-0" />
@@ -337,19 +337,19 @@
         <mxCell id="dQ05x5KbaUEkVMnu56LT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-1" source="dQ05x5KbaUEkVMnu56LT-8" target="dQ05x5KbaUEkVMnu56LT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dQ05x5KbaUEkVMnu56LT-7" value="0/n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-6" vertex="1" connectable="0">
+        <mxCell id="dQ05x5KbaUEkVMnu56LT-7" value="0/N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-6" vertex="1" connectable="0">
           <mxGeometry x="-0.2678" y="-1" relative="1" as="geometry">
             <mxPoint x="17" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dQ05x5KbaUEkVMnu56LT-8" value="" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
+        <mxCell id="dQ05x5KbaUEkVMnu56LT-8" value="juegan" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
           <mxGeometry x="354" y="242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dQ05x5KbaUEkVMnu56LT-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Se desea construir una bd para mantener información sobre los equipos y partidos de la liga.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;- Un equipo tiene un cierto nº de jugadores (Id_jugador, datos personales)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 19px; background-color: initial;&quot;&gt;y no todos participan en cada partido.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 19px; background-color: initial;&quot;&gt;Queremos registrar además por cada partido, qué jugadores juegan,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 19px;&quot;&gt;la fecha y la hora del partido,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px;&quot;&gt;resultados de los encuentros y las posiciones donde juegan.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
           <mxGeometry x="-70" y="21" width="972" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="dQ05x5KbaUEkVMnu56LT-10" value="¿?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
-          <mxGeometry x="393" y="206" width="45" height="36" as="geometry" />
+        <mxCell id="dQ05x5KbaUEkVMnu56LT-10" value="1/N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
+          <mxGeometry x="389" y="206" width="54" height="36" as="geometry" />
         </mxCell>
         <mxCell id="dQ05x5KbaUEkVMnu56LT-15" value="nº jugadores" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
           <mxGeometry x="-90" y="252" width="127" height="40" as="geometry" />
@@ -378,22 +378,22 @@
         <mxCell id="9XAwXT56aP_MNhkPx8oP-1" value="posiciones" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
           <mxGeometry x="815" y="324" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qAIKKBQoK4L0yolpXfCF-0" value="id jugador" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dQ05x5KbaUEkVMnu56LT-1">
+        <mxCell id="qAIKKBQoK4L0yolpXfCF-0" value="id jugador" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dQ05x5KbaUEkVMnu56LT-1" vertex="1">
           <mxGeometry x="71.99000000000001" y="176" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qAIKKBQoK4L0yolpXfCF-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dQ05x5KbaUEkVMnu56LT-1" source="qAIKKBQoK4L0yolpXfCF-0" target="dQ05x5KbaUEkVMnu56LT-4">
+        <mxCell id="qAIKKBQoK4L0yolpXfCF-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dQ05x5KbaUEkVMnu56LT-1" source="qAIKKBQoK4L0yolpXfCF-0" target="dQ05x5KbaUEkVMnu56LT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126" y="234" as="sourcePoint" />
             <mxPoint x="286" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OE_mrU0FrqTGjvZrip3-0" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dQ05x5KbaUEkVMnu56LT-1" source="dQ05x5KbaUEkVMnu56LT-4" target="dQ05x5KbaUEkVMnu56LT-19">
+        <mxCell id="9OE_mrU0FrqTGjvZrip3-0" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dQ05x5KbaUEkVMnu56LT-1" source="dQ05x5KbaUEkVMnu56LT-4" target="dQ05x5KbaUEkVMnu56LT-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126" y="324" as="sourcePoint" />
             <mxPoint x="286" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OE_mrU0FrqTGjvZrip3-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dQ05x5KbaUEkVMnu56LT-1" source="dQ05x5KbaUEkVMnu56LT-15" target="dQ05x5KbaUEkVMnu56LT-4">
+        <mxCell id="9OE_mrU0FrqTGjvZrip3-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dQ05x5KbaUEkVMnu56LT-1" source="dQ05x5KbaUEkVMnu56LT-15" target="dQ05x5KbaUEkVMnu56LT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-81" y="324" as="sourcePoint" />
             <mxPoint x="79" y="324" as="targetPoint" />
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EJE-8" id="xvFp81wpOPmgEZawM7QU">
-    <mxGraphModel dx="2249" dy="771" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FOosRSez182wkQKPUyBT-0" />
         <mxCell id="FOosRSez182wkQKPUyBT-1" parent="FOosRSez182wkQKPUyBT-0" />
