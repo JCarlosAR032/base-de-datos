@@ -1,0 +1,5 @@
+# Tarea 5
+![<image>](https://th.bing.com/th/id/R.9bc89f52695cf3ecc092e5ced8acc3b2?rik=4eKqZ4UTgGTMXg&riu=http%3a%2f%2fpuertodelacruz.mobi%2fwp-content%2fuploads%2fjob-manager-uploads%2fmain_image%2f2017%2f05%2fDJI00776.jpg&ehk=N4D2iUBWPprHqGDNNb%2bZJJvwY7EZXY%2bNHfUyqI2z%2bds%3d&risl=&pid=ImgRaw&r=0)
+Se desea diseñar la base de datos de un Instituto. En la base de datos se desea guardar los datos de los profesores del Instituto (DNI, nombre, dirección y teléfono). Los profesores imparten módulos, y cada módulo tiene un código y un nombre. Cada alumno está matriculado en uno o varios módulos. De cada alumno se desea guardar el nº de expediente, nombre, apellidos y fecha de nacimiento. Los profesores pueden impartir varios módulos, pero un módulo sólo puede ser impartido por un profesor. Cada curso tiene un grupo de alumnos, uno de los cuales es el delegado del grupo
+#### Ejercicio 5
+![<image>](https://github.com/JCarlosAR032/base-de-datos/blob/main/Tareas/Tema%203/Tarea%205/img/Tarea%205.drawio.png)
