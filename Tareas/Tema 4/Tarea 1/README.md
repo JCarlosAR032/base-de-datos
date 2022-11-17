@@ -40,6 +40,8 @@ Se pide:
 
 ###### 2. Comprobar si se cumple la 1º Forma Normal:
 
+No cumple la primera forma porque tiene valores multievaluados.
+
 ###### 3. Normalizar si no se cumple el apartado 2:
 
 ###### CIUDAD
@@ -77,6 +79,8 @@ Se pide:
 | VIE           | Schwechat        |
 
 ###### 4. Determinantes sobre las tablas resultado del apartado:
+
+
 
 ###### 5. Indicar claves candidatas de todas las tablas resultantes:
 
