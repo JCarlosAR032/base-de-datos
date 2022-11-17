@@ -1,5 +1,6 @@
 # Tarea 1
 
+![<image>](https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2021-02/EASA_Logo.png?itok=pIzHUmlG)
 
 Se ha creado una base de datos con los datos de ciudades y sus aeropuertos. Los campos y los tipos de datos son los que se indican a continuación:
 - Ciudad: Nombre de la ciudad (único).
@@ -39,6 +40,8 @@ Se pide:
 
 ###### 2. Comprobar si se cumple la 1º Forma Normal:
 
+###### 3. Normalizar si no se cumple el apartado 2:
+
 ###### CIUDAD
 
 | Ciudad   | HabCiudad_M | País         | HabPaís_M | PerteneceUE |
@@ -73,5 +76,10 @@ Se pide:
 | BEG           | Nikola Tesla     |
 | VIE           | Schwechat        |
 
-###### 3. Normalizar si no se cumple el apartado 2:
+###### 4. Determinantes sobre las tablas resultado del apartado:
 
+###### 5. Indicar claves candidatas de todas las tablas resultantes:
+
+- Ciudad
+- Ciudad_Aeropuerto
+- Ciudad
