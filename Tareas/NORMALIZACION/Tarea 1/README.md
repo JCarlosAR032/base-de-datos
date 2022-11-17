@@ -34,15 +34,46 @@ Se pide:
 
 ###### 1. Indicar claves candidatas:
 
-| Ciudad  | codAeropuerto |
-| ------------- | ------------- |
-| Madrid  | MAD  |
-| París  | CDG ORY  |
-| Londres  | LHT LTN  |
-| Belgrado  | BEG  |
-| Viena  | VIE  |
+- Ciudad
+- codAeropuerto
 
-###### 2. Comprobar si se cumple la 1º Forma Normal
+###### 2. Comprobar si se cumple la 1º Forma Normal:
+
+###### CIUDAD
+
+| Ciudad   | HabCiudad_M | País         | HabPaís_M | PerteneceUE |
+|----------|-------------|--------------|-----------|-------------|
+| Madrid   | 3           | España       | 45        | Verdadero   |
+| París    | 13          | Francia      | 66        | Verdadero   |
+| Londres  | 8,3         | Gran Bretaña | 60        | Verdadero   |
+| Belgrado | 1,3         | Serbia       | 7,5       | Falso       |
+| Viena    | 1,8         | Austria      | 8,5       | Verdadero   |
+
+###### CIUDAD_AEROPUERTO
+
+| codAeropuerto | Ciudad   | Distancia_km |
+|---------------|----------|--------------|
+| MAD           | Madrid   | 13           |
+| CDG           | París    | 23           |
+| ORY           | París    | 16           |
+| LHT           | Londres  | 48           |
+| LTN           | Londres  | 28           |
+| BEG           | Belgrado | 12           |
+| VIE           | Viena    | 18           |
+
+###### AEROPUERTO
+
+| codAeropuerto | NombreAeropuerto |
+|---------------|------------------|
+| MAD           | Barajas          |
+| CDG           | Roissy De Gaulle |
+| ORY           | Orly             |
+| LNT           | Luton            |
+| LHT           | Heathrow         |
+| BEG           | Nikola Tesla     |
+| VIE           | Schwechat        |
+
+###### 3. Normalizar si no se cumple el apartado 2:
 
 -----------------------------------
 
