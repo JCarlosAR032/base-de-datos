@@ -1,6 +1,6 @@
 # Tarea 3: Gestión de INEM
 
-![<image>]()
+![<image>](https://th.bing.com/th/id/R.adcd8a6101e974a564d8818c41f0956e?rik=Fr1Q%2bsdiu%2fg4bQ&pid=ImgRaw&r=0)
 
 Tenemos una empresa publica donde los puestos de trabajo, están regulados por el estado, de modo que las condiciones salariales están determinadas por el puesto de trabajo, se ha creado el siguiente esquema relacional: (con el _número de la seguridad social NSS como clave primaria) La representación de la información dentro de la BBDD es la siguiente:
 
