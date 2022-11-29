@@ -16,4 +16,38 @@ Se desea crear una base de datos para una pequeña empresa debe contener informa
 
 No se cumple la primera forma porque tiene atributos multievaluados.
 
-### 2.-
+### 2.- Pasar a 1º Forma:
+
+Cliente
+
+| Número PK | Límite | Saldo |
+|-----------|--------|-------|
+| 1         | 1000   | 5000  |
+| 2         | 2200   | 10000 |
+| 3         | 500    | 6000  |
+
+Dirección
+
+| Calle PK | Número_Cliente FK | Número | Ciudad     | Comunidad |
+|----------|-------------------|--------|------------|-----------|
+| Pilar    | 1                 | 10     | Tacoronte  | Canarias  |
+| Rábano   | 1                 | 6      | Getafe     | Madrid    |
+| Ramar    | 2                 | 13     | La Orotava | Canarias  |
+| Trucha   | 3                 | 44     | Granadilla | Canarias  |
+| Almar    | 3                 | 18     | Leganés    | Madrid    |
+
+### Comprobar si se cumple la 2º Forma Normal:
+
+Si esta en 2º Forma.
+
+### Comprobar si se cumple la 3º Forma Normal:
+
+Cliente
+
+| Número PK | Límite | Saldo | Nombre_Calle FK |
+|-----------|--------|-------|-----------------|
+| 1         | 1000   | 5000  | Pilar           |
+| 1         | 1000   | 5000  | Rábano          |
+| 2         | 2200   | 10000 | Ramar           |
+| 3         | 500    | 6000  | Trucha          |
+| 3         | 500    | 6000  | Almar           |
