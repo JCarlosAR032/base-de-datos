@@ -1,12 +1,18 @@
 #### Tarea 5
 
-![<image>]()
+![<image>](https://th.bing.com/th/id/OIP.5tpw8vf2LdKXW6trWyPKNAHaFk?pid=ImgDet&rs=1)
 
 Tenemos una biblioteca que tiene como objetivo la gestión de la información de sus libros y lectores.
 
 La representación de la información dentro de la BBDD es la siguiente:
 
-**TABLA**
+| CodLibro | Titulo            | Autor                          | Editorial    | NombreLector       | FechaDev   |
+|----------|-------------------|--------------------------------|--------------|--------------------|------------|
+| 1001     | Variable compleja | Muray Spigel                   | McGraw Hill  | Pérez Gómez, Juan  | 15/04/2022 |
+| 1004     | Visual Basic 5    | E. Petroustsos                 | Anaya        | Ríos Terán, Ana    | 17/04/2022 |
+| 1005     | Estadística       | Murray Spiegel                 | MacGraw      | Roca, René         | 16/04/2022 |
+| 1006     | Oracle University | Nancy Greenberg y Priya Natham | Oracle Corp. | Gracía Roque, Luis | 20/04/2022 |
+| 1007     | Clipper 5.01      | Ramalho                        | McGraw Hill  | Pérez Gómez, Juan  | 18/04/2022 |
 
 Se pide:
 
