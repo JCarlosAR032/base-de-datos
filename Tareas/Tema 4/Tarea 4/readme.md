@@ -95,7 +95,11 @@ Pedido
 ### Indicar claves candidatas de todas las tablas resultantes
 
 Cliente
+  
 Calle
+  
 Ciudad
+  
 Comunidad
+  
 Pedido
