@@ -1,6 +1,6 @@
 # Tarea 4
 
-![<image>]()
+![<image>](https://th.bing.com/th/id/OIP.YZHVWoI6VFwNa3FBhBBHogHaEK?pid=ImgDet&rs=1)
 
 Se desea crear una base de datos para una pequeña empresa debe contener información acerca de clientes, artículos y pedidos. Hasta el momento se registran los siguientes datos en documentos varios:
 
@@ -51,3 +51,51 @@ Cliente
 | 2         | 2200   | 10000 | Ramar           |
 | 3         | 500    | 6000  | Trucha          |
 | 3         | 500    | 6000  | Almar           |
+
+Calle
+
+| Nombre PK | Nombre_Ciudad FK | Número |
+|-----------|------------------|--------|
+| Pilar     | Tacoronte        | 10     |
+| Rábano    | Getafe           | 6      |
+| Ramar     | La Orotava       | 13     |
+| Trucha    | Granadilla       | 44     |
+| Almar     | Leganés          | 18     |
+
+Ciudad
+
+| Nombre PK  | Nombre_Cominidad FK |
+|------------|---------------------|
+| Tacoronte  | Canarias            |
+| Getafe     | Madrid              |
+| La Orotava | Canarias            |
+| Granadilla | Canarias            |
+| Leganés    | Madrid              |
+
+Comunidad
+
+| Nombre PK  | Nombre_Cominidad FK |
+|------------|---------------------|
+| Tacoronte  | Canarias            |
+| Getafe     | Madrid              |
+| La Orotava | Canarias            |
+| Granadilla | Canarias            |
+| Leganés    | Madrid              |
+
+Pedido
+
+| Número PK | Nombre_Calle FK |
+|-----------|-----------------|
+| 100       | Pilar           |
+| 101       | Rábano          |
+| 102       | Ramar           |
+| 103       | Trucha          |
+| 104       | Almar           |
+
+### Indicar claves candidatas de todas las tablas resultantes
+
+Cliente
+Calle
+Ciudad
+Comunidad
+Pedido
